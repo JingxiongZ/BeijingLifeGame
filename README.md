@@ -1,1 +1,1 @@
-BeijingLifeGame using C++ and MFC. 
+BeijingLifeGame Demo using C++ and MFC. 
